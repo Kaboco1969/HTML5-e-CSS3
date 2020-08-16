@@ -1,0 +1,34 @@
+body {
+    background: rgb(243, 217, 237);
+    margin-left: 50px;
+    margin-right: 300px;
+    
+    header {margin-top: 69px;
+    }
+}
+
+h1{color: red; font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 22px; font-family: arial;
+}
+
+ul {font-family: Georgia;}
+
+footer {
+    margin-bottom: 50px;
+}
+
+.img_padrão {
+
+margin-bottom: 20px;
+width: 350px}
+
+.logo {
+    width: 30px;
+}
